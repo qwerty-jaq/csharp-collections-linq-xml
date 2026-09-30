@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefen", "Oefen\Oefen.csproj", "{DEEE761F-2077-47D3-B8D0-7ED31ADC9FD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEEE761F-2077-47D3-B8D0-7ED31ADC9FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEEE761F-2077-47D3-B8D0-7ED31ADC9FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEEE761F-2077-47D3-B8D0-7ED31ADC9FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEEE761F-2077-47D3-B8D0-7ED31ADC9FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5F9E9F6-81CD-4FF8-AA9E-90AF6F06F786}
+	EndGlobalSection
+EndGlobal
